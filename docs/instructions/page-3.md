@@ -1,3 +1,9 @@
+---
+tags:
+    - manuals
+    - portfolio
+---
+
 # Запуск программы
 
 1. Запустите файл Streamer.bot.exe.

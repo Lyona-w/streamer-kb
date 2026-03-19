@@ -75,3 +75,10 @@ markdown_extensions: # Расширения markdown
 
 plugins:
   - search # Плагин для подключения поиска на портале
+  - tags:
+      tags-allowed:
+      - manuals
+      - portfolio
+      - help
+      - conditions
+  - glightbox

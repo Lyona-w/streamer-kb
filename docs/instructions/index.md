@@ -1,5 +1,3 @@
 # Инструкции
 
-* [Запуск программы](./page-3.md)
-
-* [Проблемы](./problems/index.md)
+<!-- material/tags { include: [manuals]}-->
